@@ -1,41 +1,63 @@
-# System 2.0 – Die Charta der Integrität
+# System 2.0 – Das Update der Menschheit
 
-> **Status:** Open Source Framework für ein globales Update der Menschheit.
-> [cite_start]**Mission:** Trennung von technischer Hardware (Geld, Energie, Logistik) und menschlichem Sein[cite: 772].
+> **Status:** Open Source Framework für ein globales sozio-technisches Betriebssystem.  
+> **Kern-Mission:** Die Trennung von technischer Hardware (Geld, Energie, Logistik) und menschlichem Sein durch radikale Integrität.
 
-## 🌍 Was ist System 2.0?
-[cite_start]System 2.0 ist ein physikalisches und logisches Betriebssystem für die Erde[cite: 2254]. [cite_start]Es erkennt das aktuelle „System 1.0“ als fehlerbehaftet an – insbesondere durch den „Hardware-Bug“ des Zinseszins-Mechanismus, der zu künstlicher Verknappung und systemischer Instabilität führt[cite: 735, 780].
+---
 
-[cite_start]Dieses Projekt bietet die Blaupause für eine Welt, in der **Integrität** die harte Währung ist und Technik dem Menschen dient, statt ihn zu kontrollieren[cite: 745, 2255].
+## 🌍 Warum System 2.0?
+
+Das aktuelle **System 1.0** hat ein grundlegendes „Hardware-Problem“: Der Mechanismus des Zinseszinses und die unbegrenzte Kapitalakkumulation wirken wie ein physikalischer Überdruck im Kessel. Die Folgen – Inflation, Burnout und Umweltzerstörung – sind keine Unfälle, sondern logische Resultate der Programmierung.
+
+**System 2.0** ist das Sicherheitsventil. Es schützt den Wohlstand, indem es zerstörerische Spitzen kappt und die Energie dorthin lenkt, wo sie Leben fördert, statt es zu verbrauchen.
+
+---
 
 ## 🛠 Die technischen Säulen (The Big Seven)
-[cite_start]Um die Transformation zu ermöglichen, nutzt System 2.0 sieben zentrale Werkzeuge[cite: 2254]:
-1.  **Die Charta:** 10 unantastbare Artikel als universelles Grundgesetz.
-2.  [cite_start]**Der Integritätschip:** Hardware-Basis für die analoge Wahrheit in der digitalen Welt[cite: 2255].
-3.  [cite_start]**GIN (Global Integrity Network):** Ein dezentrales Netzwerk, das Lügen als Systemfehler markiert[cite: 2256].
-4.  [cite_start]**Zins-Neutralität:** Geld als neutrales Werkzeug ohne Wachstumszwang[cite: 2257].
-5.  [cite_start]**LIA (Logarithmischer Integritäts-Ausgleich):** Mathematische Glättung der Vermögensverteilung zur Sicherung des Wohlstands für alle[cite: 2258, 758].
-6.  [cite_start]**IPS (Integrity Path System):** Der algorithmisch abgesicherte Transformationskorridor[cite: 2259].
-7.  [cite_start]**Energetische Befreiung:** Reduktion des Energiebedarfs um 80% durch Effizienz und „Energie-Commons“[cite: 2261, 739].
+
+Um die Transformation einzuleiten, nutzt System 2.0 sieben zentrale Werkzeuge:
+
+1.  **Die Charta:** 10 unantastbare Artikel als universelles Grundgesetz für Integrität.
+2.  **Der Integritäts-Chip:** Hardware-Basis, die „analoge Wahrheit“ in der digitalen Welt garantiert.
+3.  **GIN (Global Integrity Network):** Ein dezentrales Netzwerk, das Manipulationen als Systemfehler markiert.
+4.  **Zins-Neutralität:** Geld als neutrales Werkzeug für Logistik und Austausch, ohne künstlichen Wachstumszwang.
+5.  **LIA (Logarithmischer Integritäts-Ausgleich):** Ein mathematischer Fairness-Algorithmus zur Glättung der Vermögensverteilung.
+6.  **IPS (Integrity Path System):** Ein algorithmisch abgesicherter Korridor für eine stabile Transformation.
+7.  **Energetische Befreiung:** Reduktion des globalen Energiebedarfs um bis zu 80% durch Effizienz und „Energie-Commons“.
+
+---
 
 ## 🧘 Die menschliche Ebene: „Die Lücke“
-Im Gegensatz zu totalitären Systemen ist das Ziel von System 2.0 die Maximierung von Freiheit:
-* [cite_start]**Die Lücke:** Ein garantierter Schutzraum für Privatheit, Ineffizienz und Spiel[cite: 759, 773].
-* [cite_start]**Sofa-Modus:** Das verbriefte Recht auf Passivität[cite: 773, 3849].
-* [cite_start]**Moral-Outsourcing:** Das System garantiert durch seine Struktur ethischen Konsum, damit der Einzelne kein Experte sein muss, um „gut“ zu leben[cite: 773].
 
-## 🧬 Wissenschaftliches Fundament: Sphärische Resonanz (TAL)
-Wir überwinden die Hierarchien des Systems 1.0. [cite_start]Wissenschaften werden als funktionale Organe eines pulsierenden Organismus verstanden[cite: 3246]:
-* [cite_start]**Nervensystem:** Mathematik & Theoretische Physik[cite: 3443].
-* [cite_start]**Stoffwechsel:** Materialwissenschaften & Chemie[cite: 3445].
-* [cite_start]**Bewusstsein:** Philosophie & Ethik[cite: 3449].
+System 2.0 ist kein Optimierungswahn. Im Zentrum steht die Freiheit:
+* **Der Sofa-Modus:** Das verbriefte Recht auf Passivität. Das System funktioniert für dich, auch wenn du keine Lust auf „Weltrettung“ hast.
+* **Die Lücke:** Ein garantierter, kontrollfreier Raum für Privatheit, Ineffizienz und Spiel.
+* **Moral-Outsourcing:** Das System garantiert durch seine Struktur ethischen Konsum. Du musst kein Experte sein, um ein „guter Mensch“ zu sein – das System erledigt die Integritätsprüfung im Hintergrund.
 
-## 🤝 Mitmachen
-[cite_start]Dies ist ein Aufruf an alle Programmierer, Ökonomen, Philosophen und Weltbewohner[cite: 730, 766]:
-* Prüfe die **LIA-Formeln**.
-* Entwirf die Logik der **Integritäts-Chips**.
-* Hilf mit, das **GIN** aufzubauen.
+---
+
+## 🧬 Wissenschaftliches Fundament: Sphärische Resonanz
+
+Wir überwinden die Hierarchien des Systems 1.0. Wissenschaften werden als funktionale Organe eines pulsierenden Organismus verstanden:
+* **Nervensystem:** Mathematik & Theoretische Physik (Axiomatik).
+* **Stoffwechsel:** Materialwissenschaften & Chemie (Transformation).
+* **Bewusstsein:** Philosophie & Ethik (Steuerung).
+
+---
+
+## 🤝 Mitwirken (Open Source)
+
+Dieses Projekt ist eine Einladung an alle Weltbewohner. Prüfe die Logik, hinterfrage die Formeln und hilf mit, die Module zu verfeinern. 
+
+* **Code:** Schau dir die `.md`-Dateien im Repository an.
+* **Diskussion:** Nutze die "Issues"-Funktion für Feedback oder neue Ideen.
+* **Pioniere:** Lies den Leitfaden für regionale Autarkie im Dokumenten-Ordner.
+
+---
 
 ## 📄 Lizenz
-[cite_start]Dieses Werk steht unter der **Creative Commons Lizenz Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)**[cite: 752, 2251].
 
+Dieses Werk (Manifest, Charta 2.0, GIR-Konzept) steht unter der **Creative Commons Lizenz Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)**.
+
+---
+*Erstellt von Weltbewohnern für die Weltbewohner.*
